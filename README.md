@@ -17,7 +17,7 @@ This module is a front-end GUI abstraction to easely manage the users, authors, 
 
 ## Attention!
 
-The main module app is the "my_library", and the "my_library_return" is a complementar module do the main app, it means that the main app could work without the complementar module uninstalled, but the complementar app does not work without the main app has been installed.
+The main module app is the "my_library", and the "my_library_return" is a complementar module of the main app, it means that the main app could work without the complementar module installed, but the complementar app does not work without the main app has been installed.
 
 In other words, the "my_library_return" is an external dependency associated to the "my_library" app, and it was not developed to work by itself, but the "my_library" could work without "my_library_return" has been installed too.
 
