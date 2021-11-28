@@ -1,8 +1,6 @@
 # my_library
 
-## Welcome to my Odoo Library App
-
-# About this application
+## About this application
 
 ## My_library
 The Application aims to provide modules to easely manage libraries, also the most frequent actions made into this environment, like rent and return books, create, search, update and delete books and authors registrations.
