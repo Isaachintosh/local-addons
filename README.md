@@ -9,7 +9,7 @@ The primary actions to create, search(read), update and delete are based into th
 
 ## My_library_return
 
-This module is a back-end bstraction of the returning rent books actions and validations
+This module is a back-end abstraction of the returning rent books actions and validations
 
 ## My_module 
 
