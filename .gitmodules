@@ -1,0 +1,3 @@
+[submodule "my_library"]
+	path = my_library
+	url = https://github.com/Isaachintosh/my_library.git
